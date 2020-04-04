@@ -1,0 +1,20 @@
+#nav_12345 ul {
+	overflow: hidden;
+	margin: 0 auto;
+	padding: 0 3%;
+	width: 94%;
+	max-width: 960px; 
+}
+	#nav_12345 ul li {
+		position: relative;
+		float: left;
+		width: 20%;
+	}
+		#nav_12345 ul li a {
+	 		display: block;
+			padding: 17px 5%;
+			width: 90%;
+			color: #fff;
+			text-align: center;
+			text-decoration: none;
+		}
